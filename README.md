@@ -1,7 +1,7 @@
-# 👨‍⚕️ Adrián IA Salud
+# Adrián IA Salud
 
 ### Tecnología con alma enfermera  
-Enfermero especialista en Atención Familiar y Comunitaria  
+Enfermero especialista en Familiar y Comunitaria  
 Investigador en salud digital · IA aplicada a cuidados · Formación sanitaria  
 📍 Servicio Galego de Saúde (SERGAS) · Galicia, España
 
@@ -20,28 +20,41 @@ Investigador en salud digital · IA aplicada a cuidados · Formación sanitaria
 
 ## 🧠 Sobre mí
 
-Soy enfermero comunitario con un enfoque innovador y humanista.  
-Me dedico a integrar la inteligencia artificial y las tecnologías digitales en la práctica clínica y la formación profesional.  
+Apasionado por los datos, su análisis, la visualización y la estadística aplicada a la salud.  
+Como enfermero comunitario, trabajo para incorporar la inteligencia artificial, la investigación y el pensamiento basado en datos en la consulta diaria, mejorando la toma de decisiones, la educación para la salud y el seguimiento clínico personalizado.
 
 Actualmente desarrollo:
 
 - 🧪 Un estudio sobre la **percepción de la IA en enfermería de atención primaria gallega**.  
 - 📲 Una **app para pacientes anticoagulados**, centrada en la accesibilidad y el seguimiento.  
-- 💻 Herramientas IA orientadas a consulta, como [ESSENCIA IA](https://chatgpt.com/g/g-67e127dfff808191b7c1212f78042e5f-essencia).  
+- 💻 Herramientas IA orientadas a consulta, como [ESSENCIA IA](https://chatgpt.com/g/g-67e127dfff808191b7c1212f78042e5f-essencia).
 
 ---
 
-## 🚀 Proyecto destacado: ESSENCIA IA
+## 🧪 Prueba mi IA
 
-[![ESSENCIA IA](https://img.shields.io/badge/PROBAR_ESSENCIA_IA-Asistente_de_consulta_IA-219EBC?style=for-the-badge)](https://chatgpt.com/g/g-67e127dfff808191b7c1212f78042e5f-essencia)
+[![ESSENCIA IA](https://img.shields.io/badge/PROBAR_ESSENCIA_IA-Asistente_de_consulta-219EBC?style=for-the-badge)](https://chatgpt.com/g/g-67e127dfff808191b7c1212f78042e5f-essencia)
 
-**ESSENCIA IA** es un asistente de inteligencia artificial orientado a profesionales de enfermería comunitaria.  
-🔍 Basado en guías oficiales (PAPPS, FAECAP, GuíaSalud, NICE, OMS) y protocolos del SERGAS.
+**ESSENCIA IA** es una inteligencia artificial diseñada exclusivamente para profesionales de enfermería familiar y comunitaria.
 
-✔️ Ofrece recomendaciones personalizadas sobre:  
-— Cuidados · Ejercicio · Alimentación · Cribados · Educación para la salud  
-📄 Genera informes adaptados a historia clínica o entrega al paciente.  
-🔐 Cumple el RGPD y el Reglamento Europeo de IA (UE 2024/1689). Uso exclusivo docente.
+🔍 Ofrece recomendaciones clínicas personalizadas basadas en:
+
+- Protocolos oficiales del **SERGAS**
+- Guías nacionales e internacionales: **PAPPS**, **FAECAP**, **GuíaSalud**, **NICE**, **OMS**
+
+🩺 Las recomendaciones incluyen:
+
+- Cuidados enfermeros adaptados al perfil del paciente
+- Intervenciones en ejercicio físico y alimentación
+- Cribados recomendados según edad y factores de riesgo
+- Educación para la salud y autocuidados
+- Derivaciones y propuestas de seguimiento
+- Fechas clave para pruebas, vacunas y reevaluaciones
+
+📄 Puede generar un resumen estructurado para incluir en la historia clínica o entregar al paciente.
+
+⚠️ **ESSENCIA IA es un prototipo de uso exclusivamente docente y orientativo. No debe utilizarse con datos reales.**  
+Cumple con el **RGPD** y el **Reglamento Europeo de Inteligencia Artificial (UE 2024/1689)**.
 
 ---
 
@@ -49,7 +62,9 @@ Actualmente desarrollo:
 
 - Docente en talleres de **IA en salud**, seguridad del paciente y tecnología ética.
 - Formador en **búsqueda bibliográfica, revisión sistemática y uso de herramientas IA** para sanitarios.
-- Colaborador habitual en AGEFEC y FAECAP.
+- Colaborador habitual en:
+  - **AGEFEC**: Asociación Galega de Enfermaría Familiar e Comunitaria.
+  - **FAECAP**: Federación de Asociaciones de Enfermería Comunitaria y Atención Primaria.
 
 🎓 Máster en Metodología de la Investigación en Ciencias de la Salud (UNIR)
 
@@ -71,5 +86,4 @@ Utilizo GitHub como espacio para:
 
 ---
 
-> *“La innovación no es el futuro: es el presente bien aplicado.”*  
-> — Adrián Vences Garrido
+> *Juntos podemos construir una tecnología ética, aprender en comunidad y transformar los cuidados desde la evidencia.*
