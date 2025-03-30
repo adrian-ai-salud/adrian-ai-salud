@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Adrián Vences Garrido
+# 👋 ¡Hola! Soy Adrián 
 
 🧠 Enfermero especialista en Atención Familiar y Comunitaria.  
 🔍 Investigador en formación | TFM sobre inteligencia artificial en atención primaria.  
