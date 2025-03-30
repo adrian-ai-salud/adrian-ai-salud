@@ -1,65 +1,75 @@
-# 👨‍⚕️ Adrián Vences Garrido
+# 👨‍⚕️ Adrián IA Salud
 
-### Enfermero especialista en Atención Familiar y Comunitaria  
-Investigador en salud digital · Desarrollador de herramientas de IA · Formador de profesionales sanitarios  
-📍 SERGAS · Galicia, España
-
-![ESSENCIA IA banner](./essencia_ia_banner.png)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adrián_Vences_Garrido-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adri%C3%A1nvencesgarrido/)
-[![GitHub Followers](https://img.shields.io/github/followers/tuusuario?style=social)](https://github.com/tuusuario)
-[![GitHub Stars](https://img.shields.io/github/stars/tuusuario?style=social)](https://github.com/tuusuario)
-[![Web AGEFEC](https://img.shields.io/badge/Web-AGEFEC.org-14a1f0?style=for-the-badge&logo=readthedocs&logoColor=white&labelColor=101010)](https://www.agefec.org/web/)
-[![ESSENCIA IA](https://img.shields.io/badge/ESSENCIA_IA-Asistente_para_consulta-0A9396?style=for-the-badge&logo=OpenAI&logoColor=white&labelColor=101010)](https://chatgpt.com/g/g-67e127dfff808191b7c1212f78042e5f-essencia)
+### Tecnología con alma enfermera  
+Enfermero especialista en Atención Familiar y Comunitaria  
+Investigador en salud digital · IA aplicada a cuidados · Formación sanitaria  
+📍 Servicio Galego de Saúde (SERGAS) · Galicia, España
 
 ---
 
-## 👨‍🔬 Sobre mí
+<!-- 🔷 Imagen de banner (añadir cuando esté lista) -->
+<!-- ![Banner](./banner_adrian_ia_salud.png) -->
 
-Soy **enfermero especialista en Atención Familiar y Comunitaria** con experiencia en:
+---
 
-- 🧠 **Investigación sanitaria**: IA, alfabetización en salud digital y desarrollo de apps.
-- 🤖 **Desarrollo de herramientas de IA** para consulta clínica y educación sanitaria.
-- 👨‍🏫 **Docencia en salud digital** y formación de profesionales sanitarios.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adrián_Vences_Garrido-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adri%C3%A1nvencesgarrido/)
+[![ESSENCIA IA](https://img.shields.io/badge/Ir_a_ESSENCIA_IA-Asistente_IA_enfermera-3D9970?style=for-the-badge&logo=openai&logoColor=white)](https://chatgpt.com/g/g-67e127dfff808191b7c1212f78042e5f-essencia)
+[![Web AGEFEC](https://img.shields.io/badge/Web-AGEFEC.org-0A9396?style=for-the-badge&logo=readthedocs&logoColor=white)](https://www.agefec.org/web/)
 
-Actualmente trabajo en el **SERGAS**, compaginando mi labor asistencial con proyectos de innovación tecnológica y liderazgo en la [AGEFEC](https://www.agefec.org/web/).
+---
+
+## 🧠 Sobre mí
+
+Soy enfermero comunitario con un enfoque innovador y humanista.  
+Me dedico a integrar la inteligencia artificial y las tecnologías digitales en la práctica clínica y la formación profesional.  
+
+Actualmente desarrollo:
+
+- 🧪 Un estudio sobre la **percepción de la IA en enfermería de atención primaria gallega**.  
+- 📲 Una **app para pacientes anticoagulados**, centrada en la accesibilidad y el seguimiento.  
+- 💻 Herramientas IA orientadas a consulta, como [ESSENCIA IA](https://chatgpt.com/g/g-67e127dfff808191b7c1212f78042e5f-essencia).  
 
 ---
 
 ## 🚀 Proyecto destacado: ESSENCIA IA
 
-[![ESSENCIA IA](https://img.shields.io/badge/Ir_a_ESSENCIA_IA-Click_aquí-3D9970?style=for-the-badge)](https://chatgpt.com/g/g-67e127dfff808191b7c1212f78042e5f-essencia)
+[![ESSENCIA IA](https://img.shields.io/badge/PROBAR_ESSENCIA_IA-Asistente_de_consulta_IA-219EBC?style=for-the-badge)](https://chatgpt.com/g/g-67e127dfff808191b7c1212f78042e5f-essencia)
 
-**ESSENCIA IA** es un asistente clínico diseñado para profesionales de enfermería familiar y comunitaria.  
-📋 Proporciona recomendaciones personalizadas basadas en guías oficiales (PAPPS, FAECAP, GuíaSalud, NICE, OMS) y protocolos del SERGAS.
+**ESSENCIA IA** es un asistente de inteligencia artificial orientado a profesionales de enfermería comunitaria.  
+🔍 Basado en guías oficiales (PAPPS, FAECAP, GuíaSalud, NICE, OMS) y protocolos del SERGAS.
 
-- ✅ Recomendaciones de cuidados, ejercicio, dieta, cribados y educación para la salud.
-- 📝 Resúmenes listos para historia clínica o entrega al paciente.
-- 🔐 Funciona sin conexión y cumple con el Reglamento Europeo de IA (UE 2024/1689), RGPD y código ético de la UE.
+✔️ Ofrece recomendaciones personalizadas sobre:  
+— Cuidados · Ejercicio · Alimentación · Cribados · Educación para la salud  
+📄 Genera informes adaptados a historia clínica o entrega al paciente.  
+🔐 Cumple el RGPD y el Reglamento Europeo de IA (UE 2024/1689). Uso exclusivo docente.
 
 ---
 
 ## 📚 Formación y docencia
 
-- Imparto **talleres sobre inteligencia artificial en salud**, seguridad del paciente y uso ético de nuevas tecnologías.
-- Desarrollo contenidos formativos para fortalecer la **alfabetización digital y científica** de la comunidad enfermera.
+- Docente en talleres de **IA en salud**, seguridad del paciente y tecnología ética.
+- Formador en **búsqueda bibliográfica, revisión sistemática y uso de herramientas IA** para sanitarios.
+- Colaborador habitual en AGEFEC y FAECAP.
 
-🎓 **Máster en Metodología de la Investigación en Ciencias de la Salud (UNIR)**
+🎓 Máster en Metodología de la Investigación en Ciencias de la Salud (UNIR)
 
 ---
 
 ## 🧭 Gestión y liderazgo
 
-Como **vocal de grupos de traballo de AGEFEC**, coordino iniciativas científicas y de divulgación profesional en Galicia.
+Como **vocal de los grupos de traballo de AGEFEC**, coordino iniciativas de investigación, producción científica y formación colaborativa en enfermería comunitaria.
 
 ---
 
 ## 💡 Esta cuenta
 
-Utilizo GitHub para **aprender programación (especialmente Python)** y compartir recursos relacionados con salud digital, IA y desarrollo de herramientas para mejorar la práctica clínica.
+Utilizo GitHub como espacio para:
+
+- Aprender programación, especialmente en **Python aplicado a salud**.
+- Compartir desarrollos propios y herramientas prácticas con enfoque ético.
+- Conectar con otros profesionales interesados en **salud digital, IA y código abierto**.
 
 ---
 
-> *"La innovación no es el futuro: es el presente bien aplicado."*  
+> *“La innovación no es el futuro: es el presente bien aplicado.”*  
 > — Adrián Vences Garrido
-
