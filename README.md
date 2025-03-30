@@ -1,14 +1,13 @@
-# Adrián IA Salud
+# 👨‍⚕️ Adrián IA Salud
 
 ### Tecnología con alma enfermera  
-Enfermero especialista en Familiar y Comunitaria  
+Enfermero especialista en Atención Familiar y Comunitaria  
 Investigador en salud digital · IA aplicada a cuidados · Formación sanitaria  
 📍 Servicio Galego de Saúde (SERGAS) · Galicia, España
 
 ---
 
-<!-- 🔷 Imagen de banner (añadir cuando esté lista) -->
-<!-- ![Banner](./banner_adrian_ia_salud.png) -->
+![Tecnología con alma enfermera](./banner_tecnologia_con_alma_enfermera.png)
 
 ---
 
@@ -35,6 +34,10 @@ Actualmente desarrollo:
 
 [![ESSENCIA IA](https://img.shields.io/badge/PROBAR_ESSENCIA_IA-Asistente_de_consulta-219EBC?style=for-the-badge)](https://chatgpt.com/g/g-67e127dfff808191b7c1212f78042e5f-essencia)
 
+<p align="center">
+  <img src="./essencia_logo.png" alt="ESSENCIA IA" width="180"/>
+</p>
+
 **ESSENCIA IA** es una inteligencia artificial diseñada exclusivamente para profesionales de enfermería familiar y comunitaria.
 
 🔍 Ofrece recomendaciones clínicas personalizadas basadas en:
@@ -44,11 +47,11 @@ Actualmente desarrollo:
 
 🩺 Las recomendaciones incluyen:
 
-- Cuidados enfermeros adaptados al perfil del paciente
-- Intervenciones en ejercicio físico y alimentación
-- Cribados recomendados según edad y factores de riesgo
-- Educación para la salud y autocuidados
-- Derivaciones y propuestas de seguimiento
+- Cuidados enfermeros adaptados al perfil del paciente  
+- Intervenciones en ejercicio físico y alimentación  
+- Cribados según edad y factores de riesgo  
+- Educación para la salud y autocuidados  
+- Derivaciones y propuestas de seguimiento  
 - Fechas clave para pruebas, vacunas y reevaluaciones
 
 📄 Puede generar un resumen estructurado para incluir en la historia clínica o entregar al paciente.
@@ -87,3 +90,4 @@ Utilizo GitHub como espacio para:
 ---
 
 > *Juntos podemos construir una tecnología ética, aprender en comunidad y transformar los cuidados desde la evidencia.*
+
