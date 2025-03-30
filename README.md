@@ -1,4 +1,4 @@
-# Adrián-IA-Salud
+# 👨‍⚕️ Adrián IA Salud
 
 ### Tecnología con alma enfermera  
 Enfermero especialista en Atención Familiar y Comunitaria  
@@ -7,8 +7,10 @@ Investigador en salud digital · IA aplicada a cuidados · Formación sanitaria
 
 ---
 
-![banner_tecnologia_con_alma_enfermera](https://github.com/user-attachments/assets/1c994b8e-bb79-4917-b611-6131537e62ad)
-
+<!-- Banner principal -->
+<p align="center">
+  <img src="./banner_tecnologia_con_alma_enfermera.jpg" alt="Tecnología con alma enfermera" />
+</p>
 
 ---
 
@@ -27,17 +29,17 @@ Actualmente desarrollo:
 
 - 🧪 Un estudio sobre la **percepción de la IA en enfermería de atención primaria gallega**.  
 - 📲 Una **app para pacientes anticoagulados**, centrada en la accesibilidad y el seguimiento.  
-- 💻 Herramientas IA orientadas a consulta, como ESSENCIA IA
-.
+- 💻 Herramientas IA orientadas a consulta, como [ESSENCIA IA](https://chatgpt.com/g/g-67e127dfff808191b7c1212f78042e5f-essencia).
 
 ---
 
 ## 🧪 Prueba mi IA
 
 <p align="center">
-  <img src="./![ChatGPT Image 29 mar 2025, 18_04_24](https://github.com/user-attachments/assets/e32f7f6d-ff7c-4b47-b725-3e6b243a66d9)
-" alt="ESSENCIA IA" width="180"/>
+  <img src="./ChatGPT Image 29 mar 2025, 18_04_24.png" alt="ESSENCIA IA" width="150"/>
 </p>
+
+[![ESSENCIA IA](https://img.shields.io/badge/PROBAR_ESSENCIA_IA-Asistente_de_consulta-219EBC?style=for-the-badge)](https://chatgpt.com/g/g-67e127dfff808191b7c1212f78042e5f-essencia)
 
 **ESSENCIA IA** es una inteligencia artificial diseñada exclusivamente para profesionales de enfermería familiar y comunitaria.
 
@@ -48,11 +50,11 @@ Actualmente desarrollo:
 
 🩺 Las recomendaciones incluyen:
 
-- Cuidados enfermeros adaptados al perfil del paciente  
-- Intervenciones en ejercicio físico y alimentación  
-- Cribados según edad y factores de riesgo  
-- Educación para la salud y autocuidados  
-- Derivaciones y propuestas de seguimiento  
+- Cuidados enfermeros adaptados al perfil del paciente
+- Intervenciones en ejercicio físico y alimentación
+- Cribados recomendados según edad y factores de riesgo
+- Educación para la salud y autocuidados
+- Derivaciones y propuestas de seguimiento
 - Fechas clave para pruebas, vacunas y reevaluaciones
 
 📄 Puede generar un resumen estructurado para incluir en la historia clínica o entregar al paciente.
@@ -91,4 +93,3 @@ Utilizo GitHub como espacio para:
 ---
 
 > *Juntos podemos construir una tecnología ética, aprender en comunidad y transformar los cuidados desde la evidencia.*
-
