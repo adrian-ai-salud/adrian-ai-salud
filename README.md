@@ -1,5 +1,5 @@
 # 👨‍⚕️ Hola, soy Adrián 👋  
-Enfermero comunitario apasionado por la IA, la salud digital y la formación sanitaria.
+Enfermero especialista en familiar y comunitaria, apasionado por la IA, la salud digital y la formación sanitaria.
 
 <!-- Banner principal -->
 <p align="center">
