@@ -36,7 +36,7 @@ Actualmente desarrollo:
 ## 🧪 Prueba mi IA
 
 <p align="center">
-  <img src="./ChatGPT Image 29 mar 2025, 18_04_24.png" alt="ESSENCIA IA" width="150"/>
+  <img src="./Logo ESSENCIA.png" alt="ESSENCIA IA" width="150"/>
 </p>
 
 [![ESSENCIA IA](https://img.shields.io/badge/PROBAR_ESSENCIA_IA-Asistente_de_consulta-219EBC?style=for-the-badge)](https://chatgpt.com/g/g-67e127dfff808191b7c1212f78042e5f-essencia)
