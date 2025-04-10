@@ -44,12 +44,13 @@ Actualmente desarrollo:
 
 🎯 ¿Qué puede hacer por ti?
 
+- Nos lleva de la mano por cada una de las etapas de una acción comunitaria
 - Sugerir actividades comunitarias según contexto, recursos y objetivos
 - Guiar la planificación, implementación y evaluación
 - Proponer ideas innovadoras adaptadas a entornos reales
 - Facilitar plantillas, checklists y recursos formativos
 
-💬 Ideal para centros de salud, concellos, asociaciones y docentes en promoción de la salud.
+💬 Ideal para centros de salud, ayuntamientos, asociaciones y docentes en promoción de la salud.
 
 ---
 
@@ -64,7 +65,7 @@ Actualmente desarrollo:
 **ESSENCIA** está diseñada para ofrecer apoyo en consulta enfermera con recomendaciones clínicas personalizadas basadas en guías oficiales:
 
 - Protocolos del **SERGAS**
-- **PAPPS**, **FAECAP**, **GuíaSalud**, **NICE**, **OMS**
+- **PAPPS**, **GuíaSalud**, **NICE**, **OMS**
 
 🔍 ¿Qué incluye?
 
@@ -76,7 +77,7 @@ Actualmente desarrollo:
 - Fechas clave para pruebas, vacunas y reevaluaciones
 
 📄 Genera un resumen estructurado para historia clínica o entrega al paciente.  
-⚠️ Uso docente y orientativo. Cumple con **RGPD** y el **Reglamento Europeo de IA (UE 2024/1689)**.
+⚠️ Uso docente y orientativo. Cumplir con el **RGPD** y el **Reglamento Europeo de IA (UE 2024/1689)** es deber de cada profesional.
 
 ---
 
