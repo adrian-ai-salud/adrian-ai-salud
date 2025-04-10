@@ -6,11 +6,12 @@ Enfermero especialista en familiar y comunitaria, apasionado por la IA, la salud
   <img src="./banner_tecnologia_con_alma_enfermera.jpg" alt="Tecnología con alma enfermera" />
 </p>
 
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Adrián_Vences_Garrido-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adri%C3%A1nvencesgarrido/)
-[![ESSENCIA IA](https://img.shields.io/badge/Ir_a_ESSENCIA_IA-Asistente_IA_enfermera-3D9970?style=for-the-badge&logo=openai&logoColor=white)](https://chatgpt.com/g/g-67e127dfff808191b7c1212f78042e5f-essencia)
+[![ESSENCIA](https://img.shields.io/badge/Ir_a_ESSENCIA-Asistente_enfermero-3D9970?style=for-the-badge&logo=openai&logoColor=white)](https://chatgpt.com/g/g-67e127dfff808191b7c1212f78042e5f-essencia)
+[![ComunitarIA](https://img.shields.io/badge/Probar_ComunitarIA-IA_para_acción_comunitaria-4361EE?style=for-the-badge&logo=chatgpt&logoColor=white)](https://chatgpt.com/g/g-67f662e073048191a4c65ddc54c29894-comunitaria)
 [![Web AGEFEC](https://img.shields.io/badge/Web-AGEFEC.org-0A9396?style=for-the-badge&logo=readthedocs&logoColor=white)](https://www.agefec.org/web/)
 
+---
 
 ## Sobre mí
 
@@ -21,38 +22,63 @@ Actualmente desarrollo:
 
 - 🧪 Un estudio sobre la **percepción de la IA en enfermería de atención primaria gallega**.  
 - 📲 Una **app para pacientes anticoagulados**, centrada en la accesibilidad y el seguimiento.  
-- 💻 Herramientas IA orientadas a consulta, como [ESSENCIA IA](https://chatgpt.com/g/g-67e127dfff808191b7c1212f78042e5f-essencia).
+- 💻 Herramientas IA orientadas a consulta y salud comunitaria: [ESSENCIA](https://chatgpt.com/g/g-67e127dfff808191b7c1212f78042e5f-essencia) y [ComunitarIA](https://chatgpt.com/g/g-67f662e073048191a4c65ddc54c29894-comunitaria).
 
+---
 
-## 🧪 Prueba mi IA
+## 🧠 Conoce ComunitarIA
 
 <p align="center">
-  <img src="./Logo ESSENCIA.png" alt="ESSENCIA IA" width="150"/>
+  <img src="./ComunitarIA.png" alt="ComunitarIA" width="150"/>
 </p>
 
-[![ESSENCIA IA](https://img.shields.io/badge/PROBAR_ESSENCIA_IA-Asistente_de_consulta-219EBC?style=for-the-badge)](https://chatgpt.com/g/g-67e127dfff808191b7c1212f78042e5f-essencia)
+[![ComunitarIA](https://img.shields.io/badge/PROBAR_COMUNITARIA-IA_para_acciones_de_salud-219EBC?style=for-the-badge)](https://chatgpt.com/g/g-67f662e073048191a4c65ddc54c29894-comunitaria)
 
-**ESSENCIA IA** es una inteligencia artificial diseñada exclusivamente para profesionales de enfermería familiar y comunitaria.
+**ComunitarIA** es una inteligencia artificial diseñada para ayudar a profesionales y equipos interdisciplinares a desarrollar **acciones de salud comunitaria** paso a paso.
 
-🔍 Ofrece recomendaciones clínicas personalizadas basadas en:
+👥 Se basa en:
 
-- Protocolos oficiales del **SERGAS**
-- Guías nacionales e internacionales: **PAPPS**, **FAECAP**, **GuíaSalud**, **NICE**, **OMS**
+- La **Guía de Acción Comunitaria para Ganar Salud** (MSSSI)
+- Documentos sobre participación, redes comunitarias y metodologías activas
+- Principios de equidad, empoderamiento y trabajo intersectorial
 
-🩺 Las recomendaciones incluyen:
+🎯 ¿Qué puede hacer por ti?
+
+- Sugerir actividades comunitarias según contexto, recursos y objetivos
+- Guiar la planificación, implementación y evaluación
+- Proponer ideas innovadoras adaptadas a entornos reales
+- Facilitar plantillas, checklists y recursos formativos
+
+💬 Ideal para centros de salud, concellos, asociaciones y docentes en promoción de la salud.
+
+---
+
+## 🩺 Prueba también ESSENCIA
+
+<p align="center">
+  <img src="./Logo ESSENCIA.png" alt="ESSENCIA" width="150"/>
+</p>
+
+[![ESSENCIA](https://img.shields.io/badge/PROBAR_ESSENCIA-Asistente_de_consulta-219EBC?style=for-the-badge)](https://chatgpt.com/g/g-67e127dfff808191b7c1212f78042e5f-essencia)
+
+**ESSENCIA** está diseñada para ofrecer apoyo en consulta enfermera con recomendaciones clínicas personalizadas basadas en guías oficiales:
+
+- Protocolos del **SERGAS**
+- **PAPPS**, **FAECAP**, **GuíaSalud**, **NICE**, **OMS**
+
+🔍 ¿Qué incluye?
 
 - Cuidados enfermeros adaptados al perfil del paciente
 - Intervenciones en ejercicio físico y alimentación
-- Cribados recomendados según edad y factores de riesgo
+- Cribados según edad y factores de riesgo
 - Educación para la salud y autocuidados
 - Derivaciones y propuestas de seguimiento
 - Fechas clave para pruebas, vacunas y reevaluaciones
 
-📄 Puede generar un resumen estructurado para incluir en la historia clínica o entregar al paciente.
+📄 Genera un resumen estructurado para historia clínica o entrega al paciente.  
+⚠️ Uso docente y orientativo. Cumple con **RGPD** y el **Reglamento Europeo de IA (UE 2024/1689)**.
 
-⚠️ **ESSENCIA IA es un prototipo de uso exclusivamente docente y orientativo. No debe utilizarse con datos reales.**  
-Cumple con el **RGPD** y el **Reglamento Europeo de Inteligencia Artificial (UE 2024/1689)**.
-
+---
 
 ## 📚 Formación y docencia
 
@@ -64,11 +90,13 @@ Cumple con el **RGPD** y el **Reglamento Europeo de Inteligencia Artificial (UE 
 
 🎓 Máster en Metodología de la Investigación en Ciencias de la Salud (UNIR)
 
+---
 
 ## 🧭 Gestión y liderazgo
 
 Como **vocal de los grupos de traballo de AGEFEC**, coordino iniciativas de investigación, producción científica y formación colaborativa en enfermería comunitaria.
 
+---
 
 ## 💡 Esta cuenta
 
@@ -78,5 +106,5 @@ Utilizo GitHub como espacio para:
 - Compartir desarrollos propios y herramientas prácticas con enfoque ético.
 - Conectar con otros profesionales interesados en **salud digital, IA y código abierto**.
 
-
 > *Juntos podemos construir una tecnología ética, aprender en comunidad y transformar los cuidados desde la evidencia.*
+
