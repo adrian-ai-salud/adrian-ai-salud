@@ -1,64 +1,87 @@
-# 👨‍⚕️ ¡Hola! Soy Adrián
+# 👨‍⚕️ Hola, soy Adrián  
+
+Enfermero especialista en Familiar y Comunitaria, apasionado por la **Inteligencia Artificial**, la **salud digital** y la **investigación aplicada**.
+
+---
 
 <p align="center">
-  <img src="./assets/header-ai-nursing.png" alt="Ilustración IA y enfermería" width="100%" style="max-width:600px;" />
+  <img src="./assets/hero-banner.png" alt="Ilustración abstracta IA y enfermería" width="100%">
 </p>
 
 ---
 
-## 🌱 Enfermería comunitaria + Inteligencia Artificial + Salud digital
+## 🌱 Sobre mí  
 
-Soy **enfermero especialista en Familiar y Comunitaria**.  
-Me apasiona aplicar la **IA** y la **salud digital** para mejorar la práctica clínica, la educación sanitaria y el trabajo en equipo.  
-Uso GitHub como espacio para **aprender, documentar y compartir proyectos propios**, siempre con un enfoque **ético y práctico**.
+Soy **enfermero comunitario** con experiencia en consulta, docencia e investigación.  
+Mi objetivo es acercar la **IA y los datos** a la práctica clínica diaria, siempre con un enfoque **ético y práctico**.  
 
----
-
-## 🔬 Proyectos destacados en GitHub
-
-- 📊 [**Estadística para Sanitarios**](https://github.com/adrian-ai-salud/EstadisticaParaSanitarios)  
-  Material y recursos para formación en bioestadística aplicada a profesionales de la salud.
-
-- 🧩 [**Escalas de Salud Comunitaria**](https://github.com/adrian-ai-salud/escalas-salud-comunitaria-app)  
-  Aplicación con escalas validadas y calculadoras para la práctica en salud comunitaria.
-
-- 🩺 [**Enfermería + RAG App**](https://github.com/adrian-ai-salud/enfermeria-rag-app)  
-  Proyecto en construcción para aplicar técnicas de **RAG (Retrieval-Augmented Generation)** en consulta de enfermería.
-
-- 🎮 [**Juego Historia de la Enfermería**](https://github.com/adrian-ai-salud/Juego-Historia-de-la-Enfermeria)  
-  Proyecto lúdico-educativo sobre hitos y pioneras de la enfermería.
+Actualmente desarrollo proyectos que combinan:  
+- 📊 Estadística aplicada a la salud.  
+- 🤖 Herramientas IA para consulta y educación sanitaria.  
+- 👥 Escalas validadas para la práctica en salud comunitaria.  
 
 ---
 
-## 📚 Investigación y docencia
+## 🚀 Proyectos destacados  
 
-- Estudio en marcha sobre la **percepción de la IA en enfermería de atención primaria gallega**.  
-- Talleres de formación en **IA en salud, ética tecnológica y seguridad del paciente**.  
-- Experiencia como formador en **búsqueda bibliográfica, revisión sistemática y herramientas IA** para profesionales sanitarios.
+### 📊 Estadística para Sanitarios  
+Material y recursos para formación en bioestadística aplicada a profesionales de la salud.  
 
-🎓 Máster en **Metodología de la Investigación en Ciencias de la Salud (UNIR)**
+<p align="center">
+  <img src="./assets/project-estadistica.png" alt="Imagen abstracta estadística en salud" width="300">
+</p>
 
----
-
-## 🧭 Liderazgo y colaboración
-
-- Vocal en **AGEFEC** (Asociación Galega de Enfermaría Familiar e Comunitaria).  
-- Colaborador en **FAECAP** (Federación de Asociaciones de Enfermería Familiar y Comunitaria).  
-- Coordinación de proyectos de **acción comunitaria, investigación y producción científica**.
+🔗 [Ver proyecto](https://adrianvencesgarrido.com/BioEstadistica)  
 
 ---
 
-## 🌐 Conecta conmigo
+### 🧩 Escalas de Salud Comunitaria  
+Aplicación con escalas validadas y calculadoras para la práctica enfermera en comunidad.  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adrián_Vences_Garrido-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrianvencesgarrido/)  
-[![Mi Web](https://img.shields.io/badge/Web-adrianvencesgarrido.com-0A9396?style=for-the-badge&logo=readthedocs&logoColor=white)](https://adrianvencesgarrido.com/)  
-[![AGEFEC](https://img.shields.io/badge/AGEFEC-Asociación_Gallega-004E64?style=for-the-badge&logo=apachespark&logoColor=white)](https://www.agefec.org/web/)
+<p align="center">
+  <img src="./assets/project-escalas.png" alt="Imagen abstracta escalas de salud comunitaria" width="250">
+</p>
+
+🔗 [Ir a Escalas](https://adrianvencesgarrido.com/Escalas)  
 
 ---
 
-## 🗓️ Última actualización
-Septiembre 2025
+### 🧠 Enfermería + RAG App  
+Proyecto en construcción para aplicar técnicas de **RAG (Retrieval-Augmented Generation)** en consulta de enfermería.  
 
-> *Construyendo una tecnología ética, aprendiendo en comunidad y transformando los cuidados desde la evidencia.*
+🔗 [Ver repositorio](https://github.com/adrian-ai-salud)  
+
+---
+
+### 🎮 Juego Historia de la Enfermería  
+Proyecto lúdico-educativo sobre hitos y pioneras de la enfermería.  
+
+---
+
+## 📚 Formación y docencia  
+
+- Docente en talleres de **IA en salud**, seguridad del paciente y tecnología ética.  
+- Formador en **búsqueda bibliográfica, revisión sistemática y uso de herramientas IA**.  
+- Colaborador habitual en:  
+  - [AGEFEC](https://www.agefec.org/web/)  
+  - [FAECAP](https://www.faecap.com/)  
+
+🎓 Máster en **Metodología de la Investigación en Ciencias de la Salud (UNIR)**  
+
+---
+
+## 🤝 Conecta conmigo  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adrián%20Vences%20Garrido-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrianvencesgarrido/)  
+[![GitHub](https://img.shields.io/badge/GitHub-adrian--ai--salud-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adrian-ai-salud)  
+[![Web](https://img.shields.io/badge/Web-adrianvencesgarrido.com-0A9396?style=for-the-badge&logo=readthedocs&logoColor=white)](https://adrianvencesgarrido.com)  
+
+---
+
+## 📅 Última actualización  
+README actualizado automáticamente: **septiembre 2025**  
+
+---
+
 
 
