@@ -1,82 +1,58 @@
-# Hola, mi nombre es Adrián Vences Garrido
-
-Enfermero especialista en **Familiar y Comunitaria**, con interés en la **Inteligencia Artificial**, la **salud digital** y la **investigación en cuidados**.  
+# 👨‍⚕️ Hola, soy Adrián
 
 <p align="center">
-  <img src="./assets/hero-banner.png" alt="Banner IA y enfermería" width="100%">
+  <img src="https://raw.githubusercontent.com/adrian-ai-salud/adrian-ai-salud/main/assets/header-ai-nursing.png" alt="Ilustración IA y enfermería" />
 </p>
 
----
+Soy **enfermero especialista en Familiar y Comunitaria**.  
+Me apasiona aplicar la **inteligencia artificial** y la **salud digital** para mejorar la práctica clínica, la educación para la salud y el trabajo en equipo.  
 
-## Sobre mí
-
-Soy **enfermero comunitario** con experiencia en consulta, docencia e investigación.  
-Trabajo en la incorporación de la inteligencia artificial y el análisis de datos en la práctica clínica diaria, con el objetivo de mejorar la toma de decisiones, la educación para la salud y el seguimiento personalizado.  
-
-El motivo de este GitHub es **compartir mis progresos con las aplicaciones sencillas que desarrollo para ayudar a la consulta de enfermería del siglo XXI**, combinando **apps prácticas** y el uso de **inteligencia artificial** como apoyo al trabajo clínico y comunitario.  
-
-Me interesa el desarrollo de herramientas digitales que sean **éticas, útiles y basadas en la evidencia**, aplicables tanto en la asistencia como en la formación y la investigación en enfermería.  
+Este GitHub tiene como objetivo **compartir mis progresos** en el desarrollo de aplicaciones y herramientas sencillas, que buscan apoyar a la **consulta de enfermería del siglo XXI**.  
+Desde apps digitales hasta proyectos con IA, todos tienen un denominador común: hacer los cuidados más accesibles, basados en la evidencia y cercanos a la comunidad.  
 
 ---
 
-## Proyectos destacados
+## 🚀 Proyectos destacados
 
-### Estadística para Sanitarios  
-Material y recursos de bioestadística aplicada a profesionales de la salud.  
+[![Estadística para Sanitarios](https://img.shields.io/badge/📊_Estadística_para_Sanitarios-264653?style=for-the-badge&logo=python&logoColor=white)](https://adrianvencesgarrido.com/EstadisticaParaSanitarios/)  
+Un espacio con material y recursos para la **formación en bioestadística aplicada a profesionales de la salud**.  
+Incluye ejemplos prácticos, guías paso a paso y apoyo visual para que la estadística se convierta en una herramienta útil en la práctica clínica.
 
-<p align="center">
-  <img src="./assets/project-estadistica.png" alt="Estadística para sanitarios" width="400">
-</p>
+[![Escalas de Salud Comunitaria](https://img.shields.io/badge/📋_Escalas_de_Salud_Comunitaria-2A9D8F?style=for-the-badge&logo=googlesheets&logoColor=white)](https://adrianvencesgarrido.com/Escalas/)  
+Aplicación que recopila **escalas validadas y calculadoras** para su uso en la práctica de salud comunitaria.  
+Una forma sencilla de acceder a instrumentos fiables que facilitan la valoración y el seguimiento de pacientes y comunidades.
 
-[Acceder al proyecto](https://adrianvencesgarrido.com/EstadisticaParaSanitarios/)
-
----
-
-### Escalas de Salud Comunitaria  
-Aplicación con escalas validadas y calculadoras para la práctica en salud comunitaria.  
-
-<p align="center">
-  <img src="./assets/project-escalas.png" alt="Escalas de salud comunitaria" width="300">
-</p>
-
-[Ver escalas](https://adrianvencesgarrido.com/Escalas)
+[![Juego Historia de la Enfermería](https://img.shields.io/badge/🎮_Juego_Historia_de_la_Enfermería-E76F51?style=for-the-badge&logo=unity&logoColor=white)](https://adrianvencesgarrido.com/S%C3%ADmbolosDeCuidado/)  
+Proyecto **lúdico-educativo** que acerca la historia de la enfermería a través de un juego interactivo.  
+Un homenaje a los hitos y pioneras de nuestra profesión, pensado tanto para estudiantes como para profesionales y personas interesadas en los cuidados.
 
 ---
 
-### Juego Historia de la Enfermería  
-Proyecto educativo e interactivo sobre los **símbolos y pioneras de la enfermería**.  
+## 📚 Investigación, formación y docencia
 
-<p align="center">
-  <img src="./assets/project-juego.png" alt="Juego Historia de la Enfermería" width="300">
-</p>
+- Actualmente desarrollo un **estudio sobre la percepción de la IA en enfermería de atención primaria gallega**.  
+- Imparto **talleres sobre IA en salud, seguridad del paciente y ética tecnológica**, adaptados a profesionales sanitarios.  
+- Experiencia como formador en **búsqueda bibliográfica, revisión sistemática y uso de herramientas IA** para investigación y práctica clínica.  
+- Máster en **Metodología de la Investigación en Ciencias de la Salud (UNIR)**.  
 
-[Probar el juego](https://adrianvencesgarrido.com/S%C3%ADmbolosDeCuidado/)
-
----
-
-## Formación y docencia
-
-- Talleres sobre **IA en salud**, seguridad del paciente y ética tecnológica.  
-- Formación en **búsqueda bibliográfica, revisión sistemática y uso de herramientas IA**.  
-- Colaboración activa en:  
-  - [AGEFEC](https://www.agefec.org/web/)  
-  - [FAECAP](https://www.faecap.com/)  
-
-Máster en **Metodología de la Investigación en Ciencias de la Salud (UNIR)**.  
+Mi enfoque es siempre práctico: cómo la inteligencia artificial y las nuevas tecnologías pueden apoyar la labor diaria de la enfermería y generar impacto real en la comunidad.
 
 ---
 
-## Encuéntrame en
+## 🔗 Encuéntrame en
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrianvencesgarrido/)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adrian-ai-salud)  
 [![Web](https://img.shields.io/badge/Web-0A9396?style=for-the-badge&logo=googlechrome&logoColor=white)](https://adrianvencesgarrido.com)  
-[![AGEFEC](https://img.shields.io/badge/AGEFEC-005F73?style=for-the-badge&logoColor=white)](https://www.agefec.org/web/)  
-[![FAECAP](https://img.shields.io/badge/FAECAP-9B2226?style=for-the-badge&logoColor=white)](https://www.faecap.com/)  
 
 ---
 
-## Última actualización
+## 🤝 Colaboración activa
 
-Este README se actualizó en **septiembre de 2025**.  
+[![AGEFEC](https://img.shields.io/badge/AGEFEC-005F73?style=for-the-badge&logoColor=white)](https://www.agefec.org/web/)  
+[![FAECAP](https://img.shields.io/badge/FAECAP-9B2226?style=for-the-badge&logoColor=white)](https://www.faecap.com/)  
+
+Participo de manera activa en **AGEFEC** (Asociación Galega de Enfermaría Familiar e Comunitaria) y en **FAECAP** (Federación de Asociaciones de Enfermería Comunitaria y Atención Primaria), impulsando proyectos de investigación, producción científica y docencia colaborativa.
+
+
 
