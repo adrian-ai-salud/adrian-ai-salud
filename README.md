@@ -35,7 +35,7 @@ Proyecto **lúdico-educativo** que acerca la historia de la enfermería a travé
   <img src="https://raw.githubusercontent.com/adrian-ai-salud/adrian-ai-salud/main/assets/banner-formacion.png" alt="Formación y docencia" />
 </p>
 
-- Desarrollo de un **estudio sobre la percepción de la IA en enfermería de atención primaria gallega**.  
+- Investigo activamente ** la percepción de la IA en enfermería de atención primaria gallega**.  
 - Imparto **talleres sobre IA en salud, seguridad del paciente y ética tecnológica**.  
 - Experiencia en **búsqueda bibliográfica, revisión sistemática y uso de herramientas IA**.  
 - Máster en **Metodología de la Investigación en Ciencias de la Salud (UNIR)**.  
@@ -48,10 +48,16 @@ Proyecto **lúdico-educativo** que acerca la historia de la enfermería a travé
   <img src="https://raw.githubusercontent.com/adrian-ai-salud/adrian-ai-salud/main/assets/banner-colaboracion.png" alt="Colaboración con asociaciones" />
 </p>
 
-[![AGEFEC](https://img.shields.io/badge/AGEFEC-005F73?style=for-the-badge&logoColor=white)](https://www.agefec.org/web/)  
-[![FAECAP](https://img.shields.io/badge/FAECAP-9B2226?style=for-the-badge&logoColor=white)](https://www.faecap.com/)  
+<p align="center">
+  <a href="https://www.agefec.org/web/">
+    <img src="https://img.shields.io/badge/AGEFEC-005F73?style=for-the-badge&logoColor=white" />
+  </a>
+  <a href="https://www.faecap.com/">
+    <img src="https://img.shields.io/badge/FAECAP-9B2226?style=for-the-badge&logoColor=white" />
+  </a>
+</p>
 
-Participo activamente en **AGEFEC** y en **FAECAP**, impulsando proyectos de investigación, producción científica y docencia colaborativa.  
+Participo activamente en **AGEFEC** (Asociación Galega de Enfermería Familiar e Comunitaria) y en **FAECAP** (Federación de Asociaciones de Enfermería Comunitaria y Atención Primaria), impulsando proyectos de investigación, producción científica y docencia colaborativa.  
 
 ---
 
@@ -73,7 +79,15 @@ Participo activamente en **AGEFEC** y en **FAECAP**, impulsando proyectos de inv
   </a>
 </p>
 
+---
 
+## Stack tecnológico
 
-
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini_CLI-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+</p>
